@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.9.5] - 2019-03-18
+### Changed
+- Updated system/parsedown.php to 1.7.2
+
 ## [0.9.4] - 2019-01-07
 ### Fixed
 - Restrict direct access to system/addons.php and system/segmentation.php
