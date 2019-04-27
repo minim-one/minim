@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.9.6] - 2019-04-27
+### Changed
+- Updated system/parsedown.php to 1.7.3
+
 ## [0.9.5] - 2019-03-18
 ### Changed
 - Updated system/parsedown.php to 1.7.2
